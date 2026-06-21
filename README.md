@@ -1,1 +1,1 @@
-# Apex_Task3
+This project is a responsive web application built using HTML, CSS, and JavaScript. It features an interactive quiz with score calculation and a random joke generator that fetches data from a public API. The website is designed to work smoothly on both desktop and mobile devices
